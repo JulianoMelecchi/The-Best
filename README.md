@@ -1,3 +1,18 @@
-<h1>Meu currículo,</h1>
-<p>Juliuano Spadoni Melecchi Freitas</p>
-<p>Data de nascimento: 20/11/2012</p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Meu currículo</title>
+  </head>
+  <body>
+    
+  </body>
+</html>
+
+
+
+
+
+html{
+  margin: auto
+  font-family: comfortaa
+}
